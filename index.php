@@ -1,4 +1,4 @@
 <?php
-echo "TEST DEPLOY WORKS! and workd and works";
+echo "TEST DEPworks";
 phpinfo();
 ?>
